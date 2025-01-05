@@ -27,7 +27,7 @@ Left Right Center (LRC) is a dice game of luch, but you can increase your chance
 ---
 
 ## Simulation Results
-For the simulation I simulated 1 million games for a different number of players involved.
+For the simulation I simulated 1 million games for a different number of players involved. For each sim, each player started with 3 tokens/dollars.
 
 ### Metrics:
 - **Win Percentages**: The likelihood of each player winning, based on their position (player 0 acts first).
